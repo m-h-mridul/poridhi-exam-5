@@ -40,4 +40,8 @@
     <img src="assets/poridhi exam-5 2 after connection peer.jpeg" width="65%" height="65%">
 </p>
 
+# step-4:
+    after all process done go to the code.sh file cheak that connection are successful work or not.
+
+
 # Thanks for reading!
