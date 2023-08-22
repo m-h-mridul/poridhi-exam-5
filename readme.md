@@ -1,5 +1,6 @@
 # The project is created for Poridhi Dev Ops exam-5
 ## In this project create two Virtual private Cloud (vpc) form two different local networks and also create two different Virtual Machines (vm) then connected them to each other with virtual interfaces.
+[medium link](https://medium.com/@mhmridul2400/connecting-two-vpcs-different-locations-based-on-aws-or-gpc-with-cross-region-vpc-peering-166fcef7c0d3)
 
 #   step-1:
     Create two  virtual private Cloud.
